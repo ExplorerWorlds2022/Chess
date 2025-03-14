@@ -1,0 +1,3 @@
+Python version - 3.13.1
+Встроенные библиотеки: random
+Сторонние библиотеки: termcolor
